@@ -1,0 +1,23 @@
+{
+  "name": "news-agg",
+  "version": "1.0.0",
+  "description": "RSS feed list management and content delivery system.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ActiveAvi/news-agg.git"
+  },
+  "keywords": [
+    "aggregation",
+    "rss"
+  ],
+  "author": "Tony Reurink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ActiveAvi/news-agg/issues"
+  },
+  "homepage": "https://github.com/ActiveAvi/news-agg#readme"
+}
